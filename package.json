@@ -1,0 +1,12 @@
+{
+  "name": "mock-powerpoint",
+  "version": "1.0.0",
+  "description": "Mock PowerPoint presentation web app",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site, no server needed'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
